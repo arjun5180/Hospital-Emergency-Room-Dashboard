@@ -1,11 +1,10 @@
-🏥 Hospital Emergency Room Dashboard
-📌 About the Project
+#🏥 Hospital Emergency Room Dashboard
 
 This project focuses on analyzing hospital emergency room data and creating an interactive dashboard in Excel to provide actionable insights. The dashboard highlights patient wait times, admission status, demographics, satisfaction scores, and department-wise referrals.
 
 The goal of this project was to simulate a real-world hospital reporting scenario, enabling healthcare staff and decision-makers to monitor performance, identify bottlenecks, and improve patient care.
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 Microsoft Excel
 
@@ -17,7 +16,7 @@ Dashboard Creation with Slicers/Filters
 
 Conditional Formatting
 
-📊 Key Insights
+#📊 Key Insights
 
 Total Patients Analyzed: 513 (sample monthly data).
 
@@ -33,7 +32,7 @@ Gender Ratio: 60.5% female, 39.5% male.
 
 Top Referral Departments: General Practice (2886 referrals), Orthopedics (966), Physiotherapy (532).
 
-📖 What I Learned
+#📖 What I Learned
 
 How to clean and structure hospital/emergency room data in Excel.
 
